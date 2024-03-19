@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">술술 카드2</string>
+    <string-array name="card_list">
+        <item>1</item>
+        <item>2</item>
+        <!-- 여기까지는 아이템 카드를 나타냅니다 -->
+        <item>1</item>
+        <item>2</item>
+        <!-- 여기까지는 그룹 카드(기본 카드)를 나타냅니다 -->
+        <item>1</item>
+        <item>2</item>
+        <!-- 여기까지는 그룹 카드(게임 카드)를 나타냅니다 -->
+        <item>1</item>
+        <item>2</item>
+        <!-- 여기까지는 내 맘대로 카드를 나타냅니다 -->
+        <item>1</item>
+        <item>2</item>
+        <!-- 여기까지는 투표 카드를 나타냅니다 -->
+    </string-array>
+
+</resources>
